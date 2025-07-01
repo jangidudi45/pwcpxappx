@@ -99,19 +99,19 @@ async def start(bot, message):
 
   keyboard = [
       [
-      InlineKeyboardButton("🧧 STRANGER BOYS 🧧", url="https://t.me/+aBB53vou0Z5hZWI1")
+      InlineKeyboardButton(" Contact ", url="https://t.me/Itsxadiii")
     ],
       [
-      InlineKeyboardButton("🌸 🎉Physics Wallah🎉 BOYS 🌸", callback_data="pwwp")
+      InlineKeyboardButton(" 📘 Physics Wallah", callback_data="pwwp")
     ],
     [
-      InlineKeyboardButton("🌼 Classplus STRANGER 🌼", callback_data="cpwp")
+      InlineKeyboardButton(" 📔 Classplus ", callback_data="cpwp")
     ],
     [
-      InlineKeyboardButton("🌷 Appx समय यात्री 🌷", callback_data="appxwp")
+      InlineKeyboardButton(" 📓 Appx ", callback_data="appxwp")
     ],
    [
-      InlineKeyboardButton("✨️ समय यात्री ✨️", url="https://t.me/+jjYZLW4sTmIwOTdl")
+      InlineKeyboardButton(" Channel ", url="https://t.me/Medicoarmy")
     ],
   ]
 
